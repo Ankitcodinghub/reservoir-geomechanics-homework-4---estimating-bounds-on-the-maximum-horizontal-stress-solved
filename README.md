@@ -1,0 +1,1 @@
+# reservoir-geomechanics-homework-4---estimating-bounds-on-the-maximum-horizontal-stress-solved
